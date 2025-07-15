@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FflARYkrQ7k=",
+  "dgSpecHash": "9X1H+z704/o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2023102020071\\Downloads\\NovoCurriculoWeb\\CurriculoWebGabriel\\CurriculoWebGabriel.csproj",
+  "projectFilePath": "C:\\Users\\2023102020071\\Documents\\GitHub\\NovoCurriculoWeb\\NovoCurriculoWeb\\CurriculoWebGabriel\\CurriculoWebGabriel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2023102020071\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.8\\microsoft.aspnetcore.authorization.8.0.8.nupkg.sha512",
     "C:\\Users\\2023102020071\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.8\\microsoft.aspnetcore.components.8.0.8.nupkg.sha512",

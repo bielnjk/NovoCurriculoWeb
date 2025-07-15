@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2023102020071\\Downloads\\NovoCurriculoWeb\\CurriculoWebGabriel\\CurriculoWebGabriel.csproj": {}
+    "C:\\Users\\2023102020071\\Documents\\GitHub\\NovoCurriculoWeb\\NovoCurriculoWeb\\CurriculoWebGabriel\\CurriculoWebGabriel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2023102020071\\Downloads\\NovoCurriculoWeb\\CurriculoWebGabriel\\CurriculoWebGabriel.csproj": {
+    "C:\\Users\\2023102020071\\Documents\\GitHub\\NovoCurriculoWeb\\NovoCurriculoWeb\\CurriculoWebGabriel\\CurriculoWebGabriel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2023102020071\\Downloads\\NovoCurriculoWeb\\CurriculoWebGabriel\\CurriculoWebGabriel.csproj",
+        "projectUniqueName": "C:\\Users\\2023102020071\\Documents\\GitHub\\NovoCurriculoWeb\\NovoCurriculoWeb\\CurriculoWebGabriel\\CurriculoWebGabriel.csproj",
         "projectName": "CurriculoWebGabriel",
-        "projectPath": "C:\\Users\\2023102020071\\Downloads\\NovoCurriculoWeb\\CurriculoWebGabriel\\CurriculoWebGabriel.csproj",
+        "projectPath": "C:\\Users\\2023102020071\\Documents\\GitHub\\NovoCurriculoWeb\\NovoCurriculoWeb\\CurriculoWebGabriel\\CurriculoWebGabriel.csproj",
         "packagesPath": "C:\\Users\\2023102020071\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2023102020071\\Downloads\\NovoCurriculoWeb\\CurriculoWebGabriel\\obj\\",
+        "outputPath": "C:\\Users\\2023102020071\\Documents\\GitHub\\NovoCurriculoWeb\\NovoCurriculoWeb\\CurriculoWebGabriel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
