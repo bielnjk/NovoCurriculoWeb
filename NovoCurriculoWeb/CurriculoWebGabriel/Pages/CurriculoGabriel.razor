@@ -1,0 +1,71 @@
+﻿@page "/CurriculoGabriel"
+<PageTitle>Currículo - Gabriel Ferreira</PageTitle>
+
+<style>
+    .curriculo-container {
+        max-width: 850px;
+        margin: auto;
+        padding: 2rem;
+        background-color: #f9f9f9;
+        border-radius: 12px;
+        box-shadow: 0 0 12px rgba(0,0,0,0.15);
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    .btn-download {
+        margin-top: 20px;
+        background-color: #007acc;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+    .btn-download:hover {
+        background-color: #005fa3;
+    }
+</style>
+
+<div class="curriculo-container">
+    <CurriculoHeader 
+        Nome="Gabriel Ferreira Bernardo Boaventura" 
+        ImagemUrl="gabriel.png" />
+
+    <CurriculoSection Titulo="Informações Pessoais">
+        <div><strong>Email:</strong> gabrielfbboaventura600@gmail.com</div>
+        <div><strong>Telefone:</strong> (69) 99354-2785</div>
+        <div><strong>Localização:</strong> Ji-Paraná, RO</div>
+        <div><strong>GitHub:</strong> <a href="https://github.com/bielnjk" target="_blank">bielnjk</a></div>
+    </CurriculoSection>
+
+    <CurriculoSection Titulo="Objetivo Profissional">
+        <div>Atuar como desenvolvedor fullstack, aprimorando habilidades em banco de dados, web, mobile, entre outros.</div>
+    </CurriculoSection>
+
+    <CurriculoSection Titulo="Formação Acadêmica">
+        <div>Curso Técnico em Informática – IFRO – Conclusão: 2025</div>
+        <div>Ensino Médio – IFRO – Conclusão: 2025</div>
+    </CurriculoSection>
+
+    <CurriculoSection Titulo="Experiência Profissional">
+        <div>Estagiário de desenvolvimento de jogos voltados à área indígena – Empresa UNIR</div>
+        <div>Atividades: Desenvolvimento com HTML, CSS e JS</div>
+    </CurriculoSection>
+
+    <CurriculoSection Titulo="Habilidades Técnicas">
+        <div>HTML, CSS, JavaScript, C#, Blazor, MySQL, Git</div>
+        <div>Lógica de Programação – Udemy, IFRO</div>
+    </CurriculoSection>
+
+    <CurriculoSection Titulo="Idiomas">
+        <div>Português: Nativo</div>
+        <div>Inglês: Intermediário</div>
+    </CurriculoSection>
+
+    
+</div>
+
+
+
